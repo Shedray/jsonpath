@@ -1,0 +1,23 @@
+{
+  "name": "json-picker",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "element-plus": "^1.1.0-beta.16",
+    "jsonpath-picker-vanilla": "^1.2.3",
+    "vue": "^3.0.4"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss7-compat": "^2.2.14",
+    "@vue/compiler-sfc": "^3.0.4",
+    "autoprefixer": "^9.8.6",
+    "postcss": "^7.0.38",
+    "sass": "^1.42.1",
+    "tailwindcss": "^2.2.15",
+    "unplugin-vue-components": "^0.15.4",
+    "vite": "^1.0.0-rc.13"
+  }
+}
